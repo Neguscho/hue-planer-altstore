@@ -1,0 +1,40 @@
+{
+  "name": "HÜ-Planer",
+  "identifier": "com.neguscho.hueplaner.source",
+  "sourceURL": "https://raw.githubusercontent.com/Neguscho/hue-planer-altstore/main/source.json",
+  "subtitle": "Hausübungen in Sekunden eintragen",
+  "description": "Private AltStore-Quelle für den HÜ-Planer.",
+  "iconURL": "https://raw.githubusercontent.com/Neguscho/hue-planer-altstore/main/icon.png",
+  "tintColor": "#5856D6",
+  "apps": [
+    {
+      "name": "HÜ-Planer",
+      "bundleIdentifier": "com.neguscho.hueplaner",
+      "developerName": "Neguscho",
+      "subtitle": "Hausübungen in Sekunden eintragen",
+      "localizedDescription": "HÜ fotografieren, Fach und Datum antippen, fertig. Übersicht nach Abgabedatum, Erinnerungen am Vortag, Kalender und eigener Bereich für Schularbeiten. Alle Daten bleiben auf deinem iPhone.",
+      "iconURL": "https://raw.githubusercontent.com/Neguscho/hue-planer-altstore/main/icon.png",
+      "tintColor": "#5856D6",
+      "category": "education",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-09-29T10:56:24.209Z",
+          "localizedDescription": "Erste Version: HÜ fotografieren, Übersicht, Kalender, Erinnerungen und Schularbeiten.",
+          "downloadURL": "https://github.com/Neguscho/hue-planer-altstore/releases/download/v1.0.0-1/HUE-Planer.ipa",
+          "size": 14264076,
+          "minOSVersion": "16.4"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Damit du deine HÜ an der Tafel, im Heft oder im Buch fotografieren kannst."
+        }
+      }
+    }
+  ],
+  "news": []
+}
