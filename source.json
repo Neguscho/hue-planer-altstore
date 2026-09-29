@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.1.0",
+          "buildVersion": "2",
+          "date": "2026-09-29T17:15:16.860Z",
+          "localizedDescription": "Neu: Texterkennung schlägt Fach, Datum und Aufgabe aus dem Foto vor. Schularbeiten per QR-Code aus WebUntis übernehmen.",
+          "downloadURL": "https://github.com/Neguscho/hue-planer-altstore/releases/download/v1.1.0-2/HUE-Planer.ipa",
+          "size": 14900903,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.0.0",
           "buildVersion": "1",
           "date": "2026-09-29T10:56:24.209Z",
@@ -31,7 +40,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSCameraUsageDescription": "Damit du deine HÜ an der Tafel, im Heft oder im Buch fotografieren kannst."
+          "NSPhotoLibraryUsageDescription": "Damit du einen Screenshot des WebUntis-QR-Codes auswählen kannst.",
+          "NSCameraUsageDescription": "Damit du deine HÜ an der Tafel, im Heft oder im Buch fotografieren und den WebUntis-QR-Code scannen kannst."
         }
       }
     }
