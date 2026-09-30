@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.4.0",
+          "buildVersion": "5",
+          "date": "2026-09-30T14:18:51.538Z",
+          "localizedDescription": "Version 1.4: Neues aus WebUntis wird automatisch übernommen (ohne Vergangenes, Erledigtes und Doppeltes), alte HÜs werden automatisch erledigt, Heute zeigt alle offenen HÜs mit Neu-Schild.",
+          "downloadURL": "https://github.com/Neguscho/hue-planer-altstore/releases/download/v1.4.0-5/HUE-Planer.ipa",
+          "size": 14974119,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.3.0",
           "buildVersion": "4",
           "date": "2026-09-30T12:14:00.780Z",
