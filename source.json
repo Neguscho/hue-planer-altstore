@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.5.0",
+          "buildVersion": "6",
+          "date": "2026-10-01T09:58:06.046Z",
+          "localizedDescription": "Stunden antippen: alle HÜs bis zu dieser Stunde und genau, was sich geändert hat (Vertretung, Raum, Fach, Entfall). Neue Sprachen: Englisch, Französisch, Spanisch, Italienisch, Portugiesisch, Türkisch und Chinesisch – folgt dem iPhone oder unter Einstellungen → Sprache.",
+          "downloadURL": "https://github.com/Neguscho/hue-planer-altstore/releases/download/v1.5.0-6/HUE-Planer.ipa",
+          "size": 15073556,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.4.0",
           "buildVersion": "5",
           "date": "2026-09-30T14:18:51.538Z",
