@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.6.0",
+          "buildVersion": "7",
+          "date": "2026-10-06T17:06:30.233Z",
+          "localizedDescription": "Neu: Tab „Lernen“ – Stoff für den Test hochladen (Foto, PDF oder Text) und mit einem Quiz üben. Falsche Antworten kommen beim nächsten Mal zuerst. Mit Apple Intelligence (iPhone 15 Pro oder neuer) gibt es zusätzliche Fragen. Liquid-Glass-Design ab iOS 26.",
+          "downloadURL": "https://github.com/Neguscho/hue-planer-altstore/releases/download/v1.6.0-7/HUE-Planer.ipa",
+          "size": 15169985,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.5.0",
           "buildVersion": "6",
           "date": "2026-10-01T09:58:06.046Z",
