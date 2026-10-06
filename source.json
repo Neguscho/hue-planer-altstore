@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.7.0",
+          "buildVersion": "8",
+          "date": "2026-10-06T17:40:42.064Z",
+          "localizedDescription": "Neu: Eigene Erinnerungen – bei „Heute“ oder im Kalender eintragen, einmal, jeden Tag oder jede Woche. Zur gewählten Uhrzeit kommt eine Mitteilung.",
+          "downloadURL": "https://github.com/Neguscho/hue-planer-altstore/releases/download/v1.7.0-8/HUE-Planer.ipa",
+          "size": 15186615,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.6.0",
           "buildVersion": "7",
           "date": "2026-10-06T17:06:30.233Z",
