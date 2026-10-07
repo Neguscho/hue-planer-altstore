@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.8.0",
+          "buildVersion": "9",
+          "date": "2026-10-07T09:12:57.390Z",
+          "localizedDescription": "Neu: Widgets für Home- und Sperrbildschirm – Heute, Hausaufgaben, Prüfungen, Erinnerungen und Überblick. Nach dem Update einmal die App öffnen, dann Home-Bildschirm lange drücken → Bearbeiten → Widget hinzufügen → HÜ-Planer.",
+          "downloadURL": "https://github.com/Neguscho/hue-planer-altstore/releases/download/v1.8.0-9/HUE-Planer.ipa",
+          "size": 17325419,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.7.0",
           "buildVersion": "8",
           "date": "2026-10-06T17:40:42.064Z",
@@ -92,7 +101,9 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Damit du einen Screenshot des WebUntis-QR-Codes auswählen kannst.",
           "NSCameraUsageDescription": "Damit du deine HÜ an der Tafel, im Heft oder im Buch fotografieren und den WebUntis-QR-Code scannen kannst."
