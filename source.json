@@ -20,6 +20,15 @@
       "versions": [
         {
           "version": "1.8.0",
+          "buildVersion": "10",
+          "date": "2026-10-07T09:20:41.756Z",
+          "localizedDescription": "Neu: Widgets für Home- und Sperrbildschirm – Heute, Hausaufgaben, Prüfungen, Erinnerungen und Überblick. Nach dem Update einmal die App öffnen, dann Home-Bildschirm lange drücken → Bearbeiten → Widget hinzufügen → HÜ-Planer.",
+          "downloadURL": "https://github.com/Neguscho/hue-planer-altstore/releases/download/v1.8.0-10/HUE-Planer.ipa",
+          "size": 17321026,
+          "minOSVersion": "16.4"
+        },
+        {
+          "version": "1.8.0",
           "buildVersion": "9",
           "date": "2026-10-07T09:12:57.390Z",
           "localizedDescription": "Neu: Widgets für Home- und Sperrbildschirm – Heute, Hausaufgaben, Prüfungen, Erinnerungen und Überblick. Nach dem Update einmal die App öffnen, dann Home-Bildschirm lange drücken → Bearbeiten → Widget hinzufügen → HÜ-Planer.",
