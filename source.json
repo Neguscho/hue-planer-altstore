@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.9.0",
+          "buildVersion": "11",
+          "date": "2026-10-07T13:24:48.106Z",
+          "localizedDescription": "Neu: Beim ersten Start wählst du „Schüler:in“ oder „Elternteil“. Im Eltern-Modus siehst du Stundenplan, Hausaufgaben und Prüfungen deines Kindes aus WebUntis (mit dem Eltern-Zugang verbinden). Mehrere Kinder sind wählbar.",
+          "downloadURL": "https://github.com/Neguscho/hue-planer-altstore/releases/download/v1.9.0-11/HUE-Planer.ipa",
+          "size": 17338524,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.8.0",
           "buildVersion": "10",
           "date": "2026-10-07T09:20:41.756Z",
@@ -97,15 +106,6 @@
           "localizedDescription": "Neu: Texterkennung schlägt Fach, Datum und Aufgabe aus dem Foto vor. Schularbeiten per QR-Code aus WebUntis übernehmen.",
           "downloadURL": "https://github.com/Neguscho/hue-planer-altstore/releases/download/v1.1.0-2/HUE-Planer.ipa",
           "size": 14900903,
-          "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.0.0",
-          "buildVersion": "1",
-          "date": "2026-09-29T10:56:24.209Z",
-          "localizedDescription": "Erste Version: HÜ fotografieren, Übersicht, Kalender, Erinnerungen und Schularbeiten.",
-          "downloadURL": "https://github.com/Neguscho/hue-planer-altstore/releases/download/v1.0.0-1/HUE-Planer.ipa",
-          "size": 14264076,
           "minOSVersion": "16.4"
         }
       ],
