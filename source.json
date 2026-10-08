@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.9.1",
+          "buildVersion": "12",
+          "date": "2026-10-08T08:58:19.085Z",
+          "localizedDescription": "Widgets repariert: Sie laden jetzt wieder (vorher: \"Please adopt containerBackground API\"). Nach dem Update die App einmal öffnen.",
+          "downloadURL": "https://github.com/Neguscho/hue-planer-altstore/releases/download/v1.9.1-12/HUE-Planer.ipa",
+          "size": 17342512,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.9.0",
           "buildVersion": "11",
           "date": "2026-10-07T13:24:48.106Z",
@@ -97,15 +106,6 @@
           "localizedDescription": "Version 1.2: Alle Tests und Schularbeiten bis zu den Semesterferien übernehmen (vergangene werden ausgeblendet), Hausaufgaben aus WebUntis als HÜ, neue Schul-Übersicht mit Stundenplan, Klassenbuch, Abwesenheiten, Mitteilungen und Diensten.",
           "downloadURL": "https://github.com/Neguscho/hue-planer-altstore/releases/download/v1.2.0-3/HUE-Planer.ipa",
           "size": 14952817,
-          "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.1.0",
-          "buildVersion": "2",
-          "date": "2026-09-29T17:15:16.860Z",
-          "localizedDescription": "Neu: Texterkennung schlägt Fach, Datum und Aufgabe aus dem Foto vor. Schularbeiten per QR-Code aus WebUntis übernehmen.",
-          "downloadURL": "https://github.com/Neguscho/hue-planer-altstore/releases/download/v1.1.0-2/HUE-Planer.ipa",
-          "size": 14900903,
           "minOSVersion": "16.4"
         }
       ],
